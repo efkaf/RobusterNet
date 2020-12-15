@@ -21,7 +21,7 @@ x1 = QuadraticLayer(64, (3, 3), activation='relu', padding="SAME", strides=(1, 1
 
 # Datasets
 
-Download CASIA and CoMoFoD full datasets from https://github.com/isi-vista/BusterNet/tree/master/Data under the directory data/
+Download CASIA and CoMoFoD full datasets from https://github.com/isi-vista/BusterNet/tree/master/Data 
 
 # Reproducing the results
 
